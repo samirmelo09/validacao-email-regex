@@ -25,7 +25,7 @@
 
 ## 🧩 **Explicação das Expressões Regulares**
 
-A expressão regular utilizada para validar e-mails é a seguinte:
+A expressão regular utilizada para validar e-mails foi:
 
 ```regex
 ^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$
