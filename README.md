@@ -1,6 +1,10 @@
 
 # Projeto de Validação de E-mail com Google Sheets e Expressões Regulares
 
+
+![image](https://github.com/user-attachments/assets/0220b340-f067-4d5f-b0fa-5430241e546d)
+
+
 ## 🛠️ Procedimento e Material Utilizado
 
 - **Ferramentas**: Google Sheets e Google Docs  
